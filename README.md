@@ -1,9 +1,9 @@
 ### Olá! Sou o Pedro Mesquita, estudante de Ciência da Computação e programação.
 
-<div align="center">
-  <a href="https://github.com/PedroMesquitaa">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=PedroMesquitaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMesquitaa&show_icons=true&layout=compact&langs_count=16&theme=dark"/>
+ <div>
+  <a href="[https://github.com/rafaballerini](https://github.com/AlianeAmaral)">
+  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=PedroMesquitaal&show_icons=true&theme=dard&include_all_commits=true&count_private=true"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMesquitaa&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
