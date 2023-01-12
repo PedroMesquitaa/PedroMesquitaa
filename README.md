@@ -2,8 +2,8 @@
 
  <div>
   <a href="[https://github.com/rafaballerini](https://github.com/PedroMesquitaa)">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=PedroMesquitaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMesquitaa&layout=compact&langs_count=16&theme=algolia"/>
+  <img height="167em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroMesquitaa&&show_icons=true&theme=algolia"/>
+  <img height="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroMesquitaa&layout=compact&theme=algolia">
 </div>
 
 <div style="display: inline_block"><br>
