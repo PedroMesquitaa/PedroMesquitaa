@@ -1,9 +1,6 @@
 ### Olá! Sou o Pedro Mesquita, estudante de Ciência da Computação e programação.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroMesquitaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroMesquitaa&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<a href="https://github.com/PedroMesquitaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroMesquitaa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mesquita's github stats" /></a> | <a href="https://github.com/PedroMesquitaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMesquitaa&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
