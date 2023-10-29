@@ -5,7 +5,7 @@
   <a href="https://github.com/PedroMesquitaa/github-readme-stats"><img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMesquitaa&layout=compact&theme=city_lights&hide_border=true" /></a> 
 </div>
 <div>
-  <a href="https://roadmap.sh"><img height="275em" src="https://api.roadmap.sh/v1-badge/tall/6535a578b5d7a4eb01f9adcd?variant=dark" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img witdth="275em" src="https://api.roadmap.sh/v1-badge/tall/6535a578b5d7a4eb01f9adcd?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
 
