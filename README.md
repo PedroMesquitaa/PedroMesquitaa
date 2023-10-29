@@ -3,8 +3,8 @@
   <a href="https://roadmap.sh"><img width="383px" src="https://api.roadmap.sh/v1-badge/wide/6535a578b5d7a4eb01f9adcd?variant=dark&roadmaps=javascript%2Cbackend" alt="roadmap.sh"/></a>
 </div>
 <div>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroMesquitaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMesquitaa&layout=compact&langs_count=16&theme=tokyonight"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroMesquitaa&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMesquitaa&layout=compact&langs_count=16&theme=Dark"/>
 </div>
 
 
