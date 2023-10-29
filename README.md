@@ -1,6 +1,6 @@
 ### Olá! Sou o Pedro Mesquita, estudante de Ciência da Computação e programação.
 <div>
-  <a href="https://roadmap.sh"><img width="380px" src="https://api.roadmap.sh/v1-badge/wide/6535a578b5d7a4eb01f9adcd?variant=dark&roadmaps=javascript%2Cbackend" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img width="385px" src="https://api.roadmap.sh/v1-badge/wide/6535a578b5d7a4eb01f9adcd?variant=dark&roadmaps=javascript%2Cbackend" alt="roadmap.sh"/></a>
 </div>
 <div>
   <a href="https://github.com/PedroMesquitaa/github-readme-stats"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroMesquitaa&show_icons=true&include_all_commits=true&theme=city_lights&hide_border=true" alt="Mesquita's github stats" /></a>
