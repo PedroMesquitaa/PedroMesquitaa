@@ -3,9 +3,7 @@
   <a href="https://roadmap.sh"><img width="383px" src="https://api.roadmap.sh/v1-badge/wide/6535a578b5d7a4eb01f9adcd?variant=dark&roadmaps=javascript%2Cbackend" alt="roadmap.sh"/></a>
 </div>
 <div>
-  <a href="https://github.com/PedroMesquitaa/github-readme-stats"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroMesquitaa&show_icons=true&include_all_commits=true&theme=city_lights&hide_border=true" alt="Mesquita's github stats" /></a>
-  <a href="https://github.com/PedroMesquitaa/github-readme-stats"><img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMesquitaa&layout=compact&theme=city_lights&hide_border=true" /></a> 
-</div>
+
 
 
 <div style="display: inline_block"><br>
