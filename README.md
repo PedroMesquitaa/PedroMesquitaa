@@ -1,1 +1,1 @@
-### Olá! Sou o Pedro Mesquita, estudante de Ciência da Computação e programação.
+### Hi, I'm Pedro Mesquita, a computer science and programming student 💻
