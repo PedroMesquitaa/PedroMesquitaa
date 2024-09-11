@@ -4,7 +4,7 @@
 
 # About Me:
 🔹 Education: Studying Computer Science, expected graduation in 2025<br>🔹 Current Focus: Learning and improving my programming skills<br> 🔹 Focusing on backend development<br>
-🔹TypeScript: Enhancing my front-end and back-end skills to create dynamic, responsive, and scalable applications.
+🔹TypeScript: Enhancing my front-end and back-end skills to create dynamic, responsive, and scalable applications.<br>
 🔹C#: Studying to automate IT support processes.
 
 
