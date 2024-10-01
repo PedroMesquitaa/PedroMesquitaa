@@ -3,9 +3,9 @@
 ![desenho](https://github.com/user-attachments/assets/df09e3d2-6a1a-44cb-97ba-35f80a8556b5)
 
 # About Me:
-🔹 Education: Studying Computer Science, expected graduation in 2025<br>🔹 Current Focus: Learning and improving my programming skills<br> 🔹 Focusing on backend development<br>
+🔹Education: Studying Computer Science, expected graduation in 2025<br>🔹Current Focus: Learning and improving my programming skills<br> 🔹Focusing on FullStack development<br>
 🔹TypeScript: Enhancing my front-end and back-end skills to create dynamic, responsive, and scalable applications.<br>
-🔹C#: Studying to automate IT support processes.
+🔹Node.js: Enhancing my backend development with a strong foundation in full-stack development.
 
 
 ## 🌐 Socials:
